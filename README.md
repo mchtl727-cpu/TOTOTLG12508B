@@ -65,7 +65,7 @@
         </div>
         <div class="item">
             <div class="label">生産国：</div>
-            <div class="value">日本（JAPAN）</div>
+            <div class="value">JAPAN</div>
         </div>
         <div class="item">
             <div class="label">商品JANコード：</div>
